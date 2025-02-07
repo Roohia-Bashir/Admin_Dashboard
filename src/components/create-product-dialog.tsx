@@ -102,7 +102,7 @@ export function CreateProductDialog({
                 <Label htmlFor="category">Category</Label>
                 <Select
                   value={product.category}
-                  onValueChange={(value: any) =>
+                  onValueChange={(value) =>
                     setProduct({ ...product, category: value })
                   }
                 >
