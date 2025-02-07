@@ -4,13 +4,13 @@ This is an Admin Dashboard built using Next.js, Tailwind CSS, and various other 
 
 ## Project Links
 
-- **GitHub Repository:** [Admin Dashboard](https://github.com/samreensaif/Admin-Dashboard.git)
-- **Live Demo:** [Admin Dashboard on Vercel](https://admin-dashboard-one-khaki-57.vercel.app)
+- **GitHub Repository:** [Admin Dashboard]([https://github.com/Roohia-Bashir/Admin_Dashboard.git]
+- **Live Demo:** [Admin Dashboard on Vercel]()
 
 ### Credentials
 
-- **Username:** admin
-- **Password:** password123
+- **Username:** roohia_bashir
+- **Password:** roohia@265
 
 ## Features
 
@@ -28,7 +28,7 @@ To run the project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/samreensaif/Admin-Dashboard.git
+git clone https://github.com/Roohia-Bashir/Admin-Dashboard.git
 ```
 
 ### 2. Navigate to the project folder
